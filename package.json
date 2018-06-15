@@ -1,0 +1,9 @@
+{
+  "name": "culori-names",
+  "version": "0.1.0",
+  "description": "Named colors",
+  "main": "index.js",
+  "repository": "git@github.com:Evercoder/culori-names.git",
+  "author": "Dan Burzo <danburzo@gmail.com>",
+  "license": "MIT"
+}
