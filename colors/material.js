@@ -1,6 +1,6 @@
 /*
 	Google Material Color Palette
-	(excluding black and wite)
+	(excluding black and white)
 	https://material.io/guidelines/style/color.html#color-color-palette
  */
 
